@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sped", "sped\sped.csproj", "{E9863406-72E6-4B77-BA84-974814B02FCE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9863406-72E6-4B77-BA84-974814B02FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9863406-72E6-4B77-BA84-974814B02FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9863406-72E6-4B77-BA84-974814B02FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9863406-72E6-4B77-BA84-974814B02FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0221F065-AFDB-4706-BAD5-D3C0C06CE41C}
+	EndGlobalSection
+EndGlobal
